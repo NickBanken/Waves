@@ -6,6 +6,8 @@ Waves is a small Music Player Application made with _ReactJS_. This was created 
 
 ## Want to give it a go?
 
+Here is the demo: https://waves-player.herokuapp.com/
+
 Just clone the repository and run the following command:
 
 ### `npm start`
