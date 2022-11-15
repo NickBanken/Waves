@@ -4,11 +4,11 @@
   left: 0;
   width: 20rem;
   height: 100%;
-  background-color: white;
-  box-shadow: 2px 2px 50px rgb(196, 196, 196);
+  background-color: rgb(38, 38, 44);
+  box-shadow: 2px 2px 50px rgb(16, 15, 19);
   overflow-y: scroll;
   transform: translateX(-100%);
-  transition:  all 0.5s ease;
+  transition: all 0.5s ease;
   opacity: 0;
   h2 {
     padding: 2rem;
@@ -20,12 +20,12 @@
   align-items: center;
   padding: 1rem 2rem;
   cursor: pointer;
-  transition: background .5s ease;
+  transition: background 0.5s ease;
   img {
     width: 30%;
   }
   &:hover {
-    background-color: rgb(241, 241, 245);
+    background-color: rgb(54, 54, 63);
   }
 }
 
@@ -58,16 +58,16 @@
 }
 
 .selected {
-  background-color: rgb(242, 242, 242);
+  background-color: rgb(25, 25, 27);
 }
 
-.active-library{
+.active-library {
   transform: translateX(0%);
   opacity: 1;
 }
 
-@media screen and (max-width: 768px){
-  .library{
+@media screen and (max-width: 768px) {
+  .library {
     width: 100%;
   }
 }
