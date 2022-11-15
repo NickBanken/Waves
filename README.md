@@ -6,7 +6,7 @@ BeatWaves is a small Music Player Application made with _ReactJS_. This was crea
 
 ## Want to give it a go?
 
-Here is the demo: https://waves-player.herokuapp.com/
+Here is the demo: https://beatwaves.netlify.app
 
 Just clone the repository and run the following command:
 
